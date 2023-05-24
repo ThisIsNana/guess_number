@@ -1,0 +1,7 @@
+//Bootstrap
+@import "./node_modules/bootstrap/scss/functions";
+@import "./stylesheet/helper/variables";
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
+
+//pages
+@import "./stylesheet/pages/index";
